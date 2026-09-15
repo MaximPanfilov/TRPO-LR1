@@ -30,4 +30,4 @@ std::string readFile(const std::string& filename) {
     std::cout << "Thanks for using our software!\n";
     cout << "You've opened " << files << " files already! Great job!" << endl;
     return buffer.str();
-}
+}person2 change 
