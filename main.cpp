@@ -33,5 +33,5 @@ int main() {
         n--;
     }
     cout << n << k << endl;
-    return 0;
+    return 2; // dev1
 }person3 change 
