@@ -1,5 +1,6 @@
 #include <iostream>
 #include "file_utils.h"
+using namespace std;
 
 int main() {
     int choice;
@@ -23,5 +24,14 @@ int main() {
         std::cout << "Invalid choice\n";
     }
 
+    int n=3;
+    int k=0;
+    
+    while(n>0)
+    {
+        k++;
+        n--;
+    }
+    cout << n << k << endl;
     return 0;
 }
