@@ -33,7 +33,6 @@ int main() {
         n--;
     }
     cout << n << k << endl;
+    return 0;
+}person1 change at another place 
 
-    return 2; // dev1
-
-}person3 change 
