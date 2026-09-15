@@ -1,0 +1,20 @@
+From 6bb0c5435f252504958e3919890fdeda96b90e0e Mon Sep 17 00:00:00 2001
+From: MaximPanfilov <makspanfilov929@gmail.com>
+Date: Tue, 15 Sep 2026 23:33:01 +0300
+Subject: [PATCH 2/3] dev3: patch 2
+
+---
+ patch2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 patch2.txt
+
+diff --git a/patch2.txt b/patch2.txt
+new file mode 100644
+index 0000000..5e23482
+--- /dev/null
++++ b/patch2.txt
+@@ -0,0 +1 @@
++patch two 
+-- 
+2.51.0.windows.2
+

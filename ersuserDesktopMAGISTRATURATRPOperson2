@@ -1,0 +1,3 @@
+[33m55228ce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m dev1: add rebase.txt
+[33ma19eba9[m dev2: change file_utils.cpp
+[33m8c4e4ac[m[33m ([m[1;32mcherry-demo[m[33m)[m Merge dev1-conflict into main (resolve conflict)

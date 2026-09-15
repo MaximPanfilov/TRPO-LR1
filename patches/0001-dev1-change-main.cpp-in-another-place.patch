@@ -1,0 +1,27 @@
+From 14a98cba6290616598ab9ff48824a83e069ae3d7 Mon Sep 17 00:00:00 2001
+From: MaximPanfilov <makspanfilov929@gmail.com>
+Date: Tue, 15 Sep 2026 22:49:54 +0300
+Subject: [PATCH] dev1: change main.cpp in another place
+
+Crazy rebase
+---
+ main.cpp | 5 ++---
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+
+diff --git a/main.cpp b/main.cpp
+index de6e122..12adfbc 100644
+--- a/main.cpp
++++ b/main.cpp
+@@ -33,7 +33,6 @@ int main() {
+         n--;
+     }
+     cout << n << k << endl;
++    return 0;
++}person1 change at another place 
+ 
+-    return 2; // dev1
+-
+-}person3 change 
+-- 
+2.51.0.windows.2
+
